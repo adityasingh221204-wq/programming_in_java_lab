@@ -1,7 +1,7 @@
 # [Flexi_even_UG_Programming Logic with Java Lab.pdf](https://github.com/user-attachments/files/25326329/Flexi_even_UG_Programming.Logic.with.Java.Lab.pdf)
 # Programming Logic with Java Lab
 
-This repository contains the laboratory assignments and projects completed for the **Programming Logic with Java Lab** course at **Symbiosis Institute of Technology, Pune**. The course focuses on applying **Object-Oriented Programming (OOP)** concepts to build modular, reusable, and scalable software solutions.
+This repository contains the laboratory assignments and projects completed as part of the **Programming Logic with Java Lab** course at **Symbiosis Institute of Technology, Pune**. The course focuses on applying **Object-Oriented Programming (OOP)** concepts to build modular, reusable, and scalable software solutions.
 
 ---
 
@@ -11,25 +11,27 @@ The primary goals of these lab sessions are:
 * **Designing real-life solutions** using inheritance, polymorphism, and interfaces.
 * **Developing hands-on skills** in exception handling and generic coding.
 * **Managing data** through File I/O and Database Connectivity (JDBC).
-* **Building applications**, including console-based and JavaFX applications.
+* **Building applications** including console-based and JavaFX applications.
 
 ---
 
-## 📂 Lab Assignments
+## 📂 Lab Assignments & Progress Tracker
 
-| Lab No. | Assignment Description | Estimated Time |
-| :--- | :--- | :--- |
-| **1** | **Menu-driven Calculator:** Demonstrating operators, control structures, and user input handling. | 3 hrs |
-| **2** | **Vehicle Management System:** Using classes, getters/setters, and arrays to manage vehicle data and mileage reports. | 3 hrs |
-| **3** | **Book Management:** Implementing multiple constructors and exception handling using `List` or `ArrayList`. | 3 hrs |
-| **4** | **Vector Class:** Mathematical operations (addition, subtraction, dot product) for 2D/3D vectors with exception handling. | 3 hrs |
-| **5** | **Banking Application:** Design to demonstrate inheritance hierarchy. | 3 hrs |
-| **6** | **Employee Payroll System:** Design to demonstrate different types of inheritance. | 3 hrs |
-| **7** | **Student Record Manager:** Performing CRUD operations on files with exception handling. | 3 hrs |
-| **8** | **Design Patterns:** Application demonstrating design patterns using the Java Collections framework. | 3 hrs |
-| **9** | **Database Connectivity (JDBC):** Creating a Java application for connectivity using JDBC. | 3 hrs |
-| **10** | **JavaFX Application:** Creating an application using JavaFX. | 3 hrs |
+Use the table below to keep track of your progress throughout the semester. You can manually check off the tasks and enter the completion dates.
 
+| Status | Lab No. | Assignment Description | Completion Date |
+| :---: | :---: | :--- | :---: |
+| [✅] | **1** | **Menu-driven Calculator:** Operators, control structures, and user input. | 27/01/2026 |
+| [ ] | **2** | **Vehicle Management System:** Classes, getters/setters, and arrays. | DD/MM/YYYY |
+| [ ] | **3** | **Book Management:** Constructors and exception handling with ArrayList. | DD/MM/YYYY |
+| [ ] | **4** | **Vector Class:** 2D/3D vector math with exception handling. | DD/MM/YYYY |
+| [ ] | **5** | **Banking Application:** Inheritance hierarchy implementation. | DD/MM/YYYY |
+| [ ] | **6** | **Employee Payroll System:** Multi-level/Multiple inheritance demo. | DD/MM/YYYY |
+| [ ] | **7** | **Student Record Manager:** File Handling (CRUD) and exceptions. | DD/MM/YYYY |
+| [ ] | **8** | **Design Patterns:** Application using Java Collections framework. | DD/MM/YYYY |
+| [ ] | **9** | **Database Connectivity:** Backend integration using JDBC. | DD/MM/YYYY |
+| [ ] | **10** | **JavaFX Application:** Building a modern GUI application. | DD/MM/YYYY |
+✅
 ---
 
 ## 🛠 Pedagogy & Evaluation
@@ -39,8 +41,7 @@ The learning process integrates several modern practices:
 * **Integration of AI Tools** and Industry-Level Practices.
 
 **Evaluation Criteria:**
-* Lab Assignments
-* Quizzes
+* Lab Assignments & Quiz
 * Mini Project
 * Code Portfolio Submission
 

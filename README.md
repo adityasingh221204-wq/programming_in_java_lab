@@ -21,17 +21,17 @@ Use the table below to keep track of your progress throughout the semester. You 
 
 | Status | Lab No. | Assignment Description | Completion Date |
 | :---: | :---: | :--- | :---: |
-| [✅] | **1** | **Menu-driven Calculator:** Operators, control structures, and user input. | 27/01/2026 |
-| [ ] | **2** | **Vehicle Management System:** Classes, getters/setters, and arrays. | DD/MM/YYYY |
-| [ ] | **3** | **Book Management:** Constructors and exception handling with ArrayList. | DD/MM/YYYY |
-| [ ] | **4** | **Vector Class:** 2D/3D vector math with exception handling. | DD/MM/YYYY |
-| [ ] | **5** | **Banking Application:** Inheritance hierarchy implementation. | DD/MM/YYYY |
-| [ ] | **6** | **Employee Payroll System:** Multi-level/Multiple inheritance demo. | DD/MM/YYYY |
-| [ ] | **7** | **Student Record Manager:** File Handling (CRUD) and exceptions. | DD/MM/YYYY |
-| [ ] | **8** | **Design Patterns:** Application using Java Collections framework. | DD/MM/YYYY |
-| [ ] | **9** | **Database Connectivity:** Backend integration using JDBC. | DD/MM/YYYY |
-| [ ] | **10** | **JavaFX Application:** Building a modern GUI application. | DD/MM/YYYY |
-✅
+| ✅ | **1** | **Menu-driven Calculator:** Operators, control structures, and user input. | 27/01/2026 |
+|  | **2** | **Vehicle Management System:** Classes, getters/setters, and arrays. |  |
+|  | **3** | **Book Management:** Constructors and exception handling with ArrayList. |  |
+|  | **4** | **Vector Class:** 2D/3D vector math with exception handling. |  |
+|  | **5** | **Banking Application:** Inheritance hierarchy implementation. |  |
+|  | **6** | **Employee Payroll System:** Multi-level/Multiple inheritance demo. |  |
+|  | **7** | **Student Record Manager:** File Handling (CRUD) and exceptions. |  |
+|  | **8** | **Design Patterns:** Application using Java Collections framework. |  |
+|  | **9** | **Database Connectivity:** Backend integration using JDBC. |  |
+|  | **10** | **JavaFX Application:** Building a modern GUI application. |  |
+
 ---
 
 ## 🛠 Pedagogy & Evaluation

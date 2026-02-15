@@ -1,6 +1,7 @@
-# Programming Logic with Java Lab
+#[Flexi_even_UG_Programming Logic with Java Lab.pdf](https://github.com/user-attachments/files/25326329/Flexi_even_UG_Programming.Logic.with.Java.Lab.pdf)
+ Programming Logic with Java Lab
 
-This repository contains the laboratory assignments and projects completed as part of the **Programming Logic with Java Lab** course at **Symbiosis Institute of Technology, Pune**. The course focuses on applying **Object-Oriented Programming (OOP)** concepts to build modular, reusable, and scalable software solutions.
+This repository contains the laboratory assignments and projects completed for the **Programming Logic with Java Lab** course at **Symbiosis Institute of Technology, Pune**. The course focuses on applying **Object-Oriented Programming (OOP)** concepts to build modular, reusable, and scalable software solutions.
 
 ---
 
@@ -10,7 +11,7 @@ The primary goals of these lab sessions are:
 * **Designing real-life solutions** using inheritance, polymorphism, and interfaces.
 * **Developing hands-on skills** in exception handling and generic coding.
 * **Managing data** through File I/O and Database Connectivity (JDBC).
-* **Building applications** including console-based and JavaFX applications.
+* **Building applications**, including console-based and JavaFX applications.
 
 ---
 

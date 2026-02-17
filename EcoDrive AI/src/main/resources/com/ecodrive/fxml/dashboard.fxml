@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.text.Text?>
+
+<VBox alignment="CENTER" spacing="25" xmlns="http://javafx.com/javafx/17"
+      xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.ecodrive.controller.MainController"
+      styleClass="root" stylesheets="@../css/style.css">
+
+    <padding>
+        <Insets top="40" right="40" bottom="40" left="40"/>
+    </padding>
+
+    <Text text="ECODRIVE AI" style="-fx-fill: #00ffff; -fx-font-size: 32; -fx-font-weight: bold; -fx-effect: dropshadow(gaussian, #00ffff, 10, 0.5, 0, 0);"/>
+
+    <HBox spacing="30" alignment="CENTER">
+        <VBox spacing="20" styleClass="glass-panel" prefWidth="420" prefHeight="300">
+            <padding><Insets all="25"/></padding>
+            <Label text="TELEMETRY INPUT" style="-fx-text-fill: white; -fx-font-weight: bold; -fx-letter-spacing: 2;"/>
+            <Separator opacity="0.1"/>
+            <VBox spacing="10">
+                <Label text="Trip Distance (km)" style="-fx-text-fill: #aaa;"/>
+                <TextField fx:id="distanceField" promptText="e.g. 150"/>
+            </VBox>
+            <VBox spacing="10">
+                <Label text="Added Load (kg)" style="-fx-text-fill: #aaa;"/>
+                <TextField fx:id="loadField" promptText="e.g. 50"/>
+            </VBox>
+            <Button text="ANALYZE DATA" fx:id="calculateButton" onAction="#onCalculateClick" maxWidth="Infinity"/>
+        </VBox>
+
+        <VBox spacing="20" styleClass="glass-panel" prefWidth="420" prefHeight="300">
+            <padding><Insets all="25"/></padding>
+            <Label text="AI ECO-COACH" style="-fx-text-fill: white; -fx-font-weight: bold;"/>
+            <Separator opacity="0.1"/>
+            <Label text="Carbon Emission Result:" style="-fx-text-fill: #aaa;"/>
+            <Label fx:id="resultLabel" text="-- KG CO2" style="-fx-text-fill: #00ffff; -fx-font-size: 28; -fx-font-weight: bold;"/>
+            <Label text="Coach Recommendation:" style="-fx-text-fill: #aaa;"/>
+            <Label fx:id="coachLabel" text="Awaiting data synchronization..." wrapText="true" style="-fx-text-fill: #32CD32; -fx-font-style: italic;"/>
+        </VBox>
+    </HBox>
+
+    <VBox spacing="10" styleClass="glass-panel" VBox.vgrow="ALWAYS">
+        <padding><Insets all="15"/></padding>
+        <Label text="GHOST CALCULATION ENGINE (LIVE PHYSICS)" style="-fx-text-fill: rgba(255,255,255,0.5); -fx-font-size: 10;"/>
+        <TextArea fx:id="ghostLogArea" editable="false" prefHeight="150" wrapText="true" styleClass="text-area"/>
+    </VBox>
+</VBox>

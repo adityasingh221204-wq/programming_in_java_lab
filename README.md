@@ -21,10 +21,10 @@ Use the table below to keep track of your progress throughout the semester. You 
 
 | Status | Lab No. | Assignment Description | Completion Date |
 | :---: | :---: | :--- | :---: |
-| ✅ | **1** | **Menu-driven Calculator:** Operators, control structures, and user input. | 27/01/2026 |
-| ✅ | **2** | **Vehicle Management System:** Classes, getters/setters, and arrays. | 17/02/2026 |
-|  | **3** | **Book Management:** Constructors and exception handling with ArrayList. |  |
-|  | **4** | **Vector Class:** 2D/3D vector math with exception handling. |  |
+| ✅ | **1** | **Menu-driven Calculator:** Operators, control structures, and user input. | 13/01/2026 |
+| ✅ | **2** | **Vehicle Management System:** Classes, getters/setters, and arrays. | 20/01/2026 |
+| ✅ | **3** | **Book Management:** Constructors and exception handling with ArrayList. | 27/01/2026 |
+| ✅ | **4** | **Vector Class:** 2D/3D vector math with exception handling. | 03/02/2026 |
 |  | **5** | **Banking Application:** Inheritance hierarchy implementation. |  |
 |  | **6** | **Employee Payroll System:** Multi-level/Multiple inheritance demo. |  |
 |  | **7** | **Student Record Manager:** File Handling (CRUD) and exceptions. |  |
